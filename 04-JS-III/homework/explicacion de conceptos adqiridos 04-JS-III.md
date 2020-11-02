@@ -28,6 +28,9 @@ $ npm --version
 
 Creo esta instalado pero no se si falta parte
 
+Otra dificultad es que no se que consola usan en los videos y si hay que descargarlas, por el momento he usado la consola de chrome pero es poco agil manejarse en ella.
+
+
 Conceptos Adquiridos
 
 Arrays: al igual que en la mayoria de los lenguajes de programación en Javasript tambien tenemos los arrays tambien llamados arreglos o vectores o matrices que nos permiten ordenar datos en variables vinculadas por un indice, teniendo Javasript al igual que en temas anteriores una gran flexibilidad. Como ejemplo podria decirse que son como los vagones de un tren en donde en cada vagon podemos guardar cualquier tipo de datos, incluso indefinidos o nulos, y se ordenan por un numero de orden o indice.
